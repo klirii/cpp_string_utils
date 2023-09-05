@@ -1,5 +1,5 @@
 # cpp_string_utils
-cpp_string_utils is the most optimized, simplest C++ string library
+cpp_string_utils is optimized, simplest C++ string library
 # How to use it?
 Suppose we have a string
 
